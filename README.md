@@ -30,4 +30,4 @@ Follow these steps to set up and run the project locally:
     npm run dev
     ```
 
-Now, you can access the application locally by visiting [http://localhost:3000](http://localhost:3000) in your web browser. Feel free to explore and make any necessary adjustments to the region data based on your requirements.
+Now, you can access the application locally by visiting [http://localhost:5173](http://localhost:5173) in your web browser. Feel free to explore and make any necessary adjustments to the region data based on your requirements.
